@@ -1,0 +1,7 @@
+D:\Projects\c#\mail-boomber\mail-boomber\bin\Debug\mail-boomber.exe.config
+D:\Projects\c#\mail-boomber\mail-boomber\bin\Debug\mail-boomber.exe
+D:\Projects\c#\mail-boomber\mail-boomber\bin\Debug\mail-boomber.pdb
+D:\Projects\c#\mail-boomber\mail-boomber\obj\Debug\mail-boomber.csproj.AssemblyReference.cache
+D:\Projects\c#\mail-boomber\mail-boomber\obj\Debug\mail-boomber.csproj.CoreCompileInputs.cache
+D:\Projects\c#\mail-boomber\mail-boomber\obj\Debug\mail-boomber.exe
+D:\Projects\c#\mail-boomber\mail-boomber\obj\Debug\mail-boomber.pdb
